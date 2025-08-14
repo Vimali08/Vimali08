@@ -1,6 +1,6 @@
 Hi, I'm Vimali 👋
 
-   🧠 Electronics and Communication Engineering at St'Joseph's College of Engineering<br/>
+   🧠 Electronics and Communication Engineering at St'Joseph's College of Engineering, India<br/>
    🔭 Currently working as a Trainee at Accenture<br/>
    👯 I’m looking to collaborate on any fun and interesting projects<br/>
    ⚡ Fun fact: I developed a prototype for a government-funded project to solve overcrowding in public transport!<br/>
