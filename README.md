@@ -4,7 +4,7 @@ Hi, I'm Vimali 👋
    🔭 Currently working as a Trainee at Accenture<br/>
    👯 I’m looking to collaborate on any fun and interesting projects<br/>
    ⚡ Fun fact: I developed a prototype for a government-funded project to solve overcrowding in public transport!<br/>
-   📫 How to reach me: ![mail](vimali2003.army@gmail.com) | ![LinkedIn](https://www.linkedin.com/in/vimali-s-564405253/)
+   📫 How to reach me: [gmail](vimali2003.army@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vimali-s-564405253/)
 
    
 # 💻 Tech Stack:
